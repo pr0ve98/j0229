@@ -3,7 +3,7 @@ package t4_exam;
 public class Exam_5 {
 	public static void main(String[] args) {
 		
-		// 4x + 5y = 60을 만족하는 x와 y의 값을 출력하시오. (x와 y는 10 이하의 자연수입니다.)
+		// 4x + 5y = 60을 만족하는 x와 y의 값을 출력하시오. (x와 y는 10 이하의 자연수입니다)
 		
 		int cnt = 0;
 		
